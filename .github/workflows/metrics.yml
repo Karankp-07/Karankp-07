@@ -23,3 +23,7 @@ jobs:
           plugin_isocalendar: yes
           config_display: large
           config_timezone: Asia/Kolkata
+          
+          # Dark mode styling configurations
+          config_theme: github-dark
+          config_twotone: yes
