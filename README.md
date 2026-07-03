@@ -42,7 +42,7 @@ Passionate about Artificial Intelligence, Machine Learning, Data Science, and So
 ## 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karankp-07&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karankp-07&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true&days=180&area=true&custom_title=My%20Contribution%20Graph"/>
 </p>
 
 ---
@@ -71,6 +71,6 @@ Passionate about Artificial Intelligence, Machine Learning, Data Science, and So
 
 <div align="center">
 
-Thanks for stopping by! ⭐
+Thanks for stopping by!! 
 
 </div>
