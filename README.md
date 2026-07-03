@@ -13,7 +13,7 @@ Passionate about Artificial Intelligence, Machine Learning, Data Science, and So
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,arch,mongodb,mysql,git,github,docker,react,bash,vscode&perline=6"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,mongodb,mysql,react,cpp,c,python,bash,linux,arch&perline=6"/>
 </p>
 
 ---
