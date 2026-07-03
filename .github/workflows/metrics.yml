@@ -1,0 +1,18 @@
+name: Generate 3D Full-Year Calendar
+on:
+  # Schedule updates nightly (at 00:00 UTC)
+  schedule: [{cron: "0 0 * * *"}]
+  # Lines below allow you to run it manually to test
+  workflow_dispatch:     
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Full-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
