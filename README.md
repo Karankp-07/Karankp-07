@@ -1,16 +1,76 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Karankp-07/Karankp-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Karan 👋
 
-Here are some ideas to get you started:
+### Data Science & Artificial Intelligence Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about Artificial Intelligence, Machine Learning, Data Science, and Software Development.
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,arch,mongodb,mysql,git,github,docker,react,bash,vscode&perline=6"/>
+</p>
+
+---
+
+## 📅 Contribution Calendar
+
+<p align="center">
+<img src="./metrics.plugin.isocalendar.svg" alt="Contribution Calendar"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Karankp-07&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true"/>
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Karankp-07&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Karankp-07&theme=dark&background=0d1117&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karankp-07&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true"/>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Undergraduate in **Data Science & Artificial Intelligence**
+- 🤖 Interested in Artificial Intelligence, Machine Learning, and Data Science
+- 💻 Passionate about Software Development and building impactful applications
+- 🏆 Enjoy Competitive Programming as a way to strengthen problem-solving skills
+- 🌱 Currently exploring Backend Development and System Design
+- 🤝 Open to collaborating on interesting projects
+
+---
+
+## 📫 Connect with Me
+
+<p align="center" style="text-decoration: none;">
+  <a href="mailto:karankp.iitbh@gmail.com" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/Karankp-07" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/karankp-iitbh/" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/karan_07.asm/" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram"/></a>
+</p>
+
+---
+
+<div align="center">
+
+Thanks for stopping by! ⭐
+
+</div>
